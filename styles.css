@@ -1,0 +1,167 @@
+body{
+    background-image:url(https://i.pinimg.com/originals/49/cd/d8/49cdd838e8c6d7fe5e2dd55deead5567.gif);
+    font-family: 'Press Start 2P';   
+    
+}
+.press-start-2p-regular {
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 500;
+    font-style: normal;
+  }
+  .card1{
+    width: 350px;
+    height: 140px;
+    margin-bottom: 10px;
+    margin-top: 45px;
+    border-radius: 5px;
+    margin-left: 150px;
+    margin-right: 20px;
+    color: rgb(0, 217, 255);
+    font-family: "Press Start 2P"; 
+    text-align: center;
+    overflow: hidden;
+    transition: 1s;
+    border: 5px solid rgb(255, 255, 255);
+    float: left;
+    background-image:url(https://cdna.artstation.com/p/assets/images/images/036/344/304/original/shin-diego-66.gif?1617396623);
+    background-size: cover;
+    background-position: center;
+}
+.card1:hover{
+        width: 300px;
+        height: 300px;
+        color :rgb(255, 0, 0);
+        font-size: larger;
+        transition: 1s;
+        background-image: url(https://scontent-hkg4-1.xx.fbcdn.net/v/t39.30808-6/462290286_564799036107743_7008158616823219186_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=z5ek1MzLCZIQ7kNvgHVWhzW&_nc_zt=23&_nc_ht=scontent-hkg4-1.xx&_nc_gid=AF1Vk3paI4lSQRZK6agJ0t4&oh=00_AYBHRIbOi7409v_H0XrSuTeYNh-SW1pwTlIKO2Mv5owujg&oe=6729669F);
+        color: transparent;
+        border:unset;
+        margin-bottom: 10px;
+    }
+.card2{
+    width: 750px;
+    height: 170px;
+    border-radius: 5px;
+    color: rgb(255, 0, 191);
+    font-family: "Press Start 2P"; 
+    text-align: center;
+    overflow: hidden;
+    transition: 1s;
+    border: 5px solid rgb(255, 255, 255);
+    background-image:url(https://i.gifer.com/XDr7.gif);
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 0px;
+}
+.card2:hover{
+    width: 704px;
+    height: 200px;
+    color :rgb(255, 255, 255);
+    font-size: larger;
+    transition: 1s;
+  margin-bottom: 20px;
+    background-image: url(https://scontent-hkg4-1.xx.fbcdn.net/v/t39.30808-6/432787540_814901817348647_6019911795449710019_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=ZeTj0fCE2yIQ7kNvgH3Jc8r&_nc_zt=23&_nc_ht=scontent-hkg4-1.xx&_nc_gid=A8xAwtUczlFCA5lXeEwVxLJ&oh=00_AYDeaTeg9Q7LnuIMXt-mfXoPPSjHPsYezw50svC5kzUlvw&oe=67296590);
+}
+.card3{
+    width: 350px;
+    height: 175px;
+    border-radius: 5px;
+    margin-left: 150px;
+    margin-right:25px;
+    color: rgb(255, 238, 0);
+    font-family: "Press Start 2P"; 
+    text-align: center;
+    overflow: hidden;
+    transition: 1s;
+    border: 2px solid rgb(255, 255, 255);
+    float: left;
+    background-image:url(https://i.pinimg.com/originals/52/1c/d4/521cd4b14f7f3d086a3d5778806bc572.gif);
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 0px;
+}
+.card4{
+    width:670px;
+    height: 170px;
+    padding-right: 80px;
+    border-radius: 5px;
+    margin-top: -10px;
+    color: rgb(5, 5, 5);
+    font-family: "Press Start 2P"; 
+    text-align: center;
+    overflow: hidden;
+    transition: 1s;
+    border: 5px solid rgb(0, 0, 0);
+    float: left;
+    background-size: cover;
+    background-position: center;
+    float: left;
+    background-image: url(https://c.tenor.com/2H2fBP1-BJMAAAAd/pixel.gif);
+    margin-bottom: 30px;
+}
+.card4:hover{
+    width: 670px;
+    height: 250px;
+    margin-top: 0px;
+    color :rgb(255, 255, 255);
+    font-size: larger;
+    transition: 1s;
+
+    background-image: url(https://scontent-hkg1-1.xx.fbcdn.net/v/t39.30808-6/465472473_122177687324183302_4579460571518555599_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GPWYaW4OPdIQ7kNvgHbU9t9&_nc_zt=23&_nc_ht=scontent-hkg1-1.xx&_nc_gid=A5eFShnUtm_1HAw24fCIZSF&oh=00_AYBTmNnCrdJlwMfNjRzOnhwglFSxxpvgrI1PLE3XXFw7Ag&oe=672A9992);
+}
+.card5{
+    width: 350px;
+    height: 140px;
+    border-radius: 0px;
+    margin-left: 150px;
+    margin-right:25px;
+    color: rgb(255, 0, 0);
+    font-family: "Press Start 2P"; 
+    text-align: center;
+    overflow: hidden;
+    transition: 1s;
+    border: 2px solid rgb(255, 255, 255);
+    float: left;
+    background-image:url(https://art.ngfiles.com/images/571000/571613_qwertfx_attempt-at-pixel-art.gif?f1513372022);
+    background-size: cover;
+    background-position: center;
+}
+.card6{
+    width:670px;
+    height: 160px;
+    padding-right: 80px;
+    border-radius: 5px;
+    margin-top: -10px;
+    color: rgb(255, 238, 0);
+    font-family: "Press Start 2P"; 
+    text-align: center;
+    overflow: hidden;
+    transition: 1s;
+    border: 5px solid rgb(252, 252, 252);
+    float: left;
+    background-size: cover;
+    background-position: center;
+    float: left;
+    background-image: url(https://i.pinimg.com/originals/c5/58/8b/c5588bc08a0325b55b596e03adfd4e5b.gif);
+}
+.text-overlay {
+    position: absolute;
+    top: 0%; 
+    left: 0%; 
+    transform: translate(-50%, -50%); 
+    color: white; 
+    font-size: 24px; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); 
+}
+
+.image-container {
+    position: relative;
+    display: inline-block;
+}
+
+.image-container img {
+    width: 100%; /* Điều chỉnh kích thước ảnh theo ý muốn */
+    height: auto;
+}
+    
+     
